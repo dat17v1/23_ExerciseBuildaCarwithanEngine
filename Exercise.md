@@ -1,4 +1,4 @@
-Exercise: Build a Car with an Engine
+#Exercise: Build a Car with an Engine
 
 Get the code from GitHub, that Christian showed you yesterday.
 
@@ -7,7 +7,7 @@ You can download it in many ways, but the easiest (in the long run) is by clonin
     $ git clone https://github.com/dat17v1/20_OurClassAsType.git
 Then you will have the code on your computer, and you can work with it.
 
-Create the program
+##Create the program
 
 1 . Create a program that asks the user to build a Car.
 
