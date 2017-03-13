@@ -1,9 +1,9 @@
 public class Engine {
-  private double size;
+  private String size;
   private String code;
-  private int horsepower;
+  private String horsepower;
 
-  public Engine(double eS, String eC, int hp) {
+  public Engine(String eS, String eC, String hp) {
     size = eS;
     code = eC;
     horsepower = hp;
